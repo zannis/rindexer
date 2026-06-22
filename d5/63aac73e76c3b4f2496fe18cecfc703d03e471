@@ -1,0 +1,26 @@
+core/src/indexer/reorg/task.rs
+  s_fd0911acc376b8::t_242e795632f576 506,509,524-529
+  s_fd0911acc376b8::t_97582990356556 277-281,294,305-310,313,317,337-366,370-374,461
+  s_fd0911acc376b8::t_6c35509b99f5b1 400-401,406
+  s_fd0911acc376b8::t_844e42f3890a81 457,462,491-495
+  s_fd0911acc376b8::t_2959b73e22062c 441-443
+  s_fd0911acc376b8::t_54b957f7bb535a 227,238,240-250
+core/tests/e2e_reorg.rs
+  s_fd0911acc376b8::t_8455a0c1987323 2157-2268
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "d563aac73e76c3b4f2496fe18cecfc703d03e471",
+  "prompts": {},
+  "sessions": {
+    "s_fd0911acc376b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4d23458-536b-4970-bcef-0d5ea174fb36",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}
