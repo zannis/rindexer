@@ -1,0 +1,55 @@
+test/abis/RocketTokenRETH.abi.json
+  s_fd0911acc376b8::t_c16850851fedba 1
+Dockerfile.slim
+  s_fd0911acc376b8::t_c16850851fedba 1-35
+docs/superpowers/plans/2026-04-10-reorg-complete.md
+  s_fd0911acc376b8::t_c16850851fedba 1-335
+docs/superpowers/plans/2026-04-18-graphql-feature-gate-slim-docker.md
+  s_fd0911acc376b8::t_c16850851fedba 1-1402
+docs/superpowers/plans/2026-04-17-reorg-native-transfer-and-streams.md
+  s_fd0911acc376b8::t_c16850851fedba 1-488
+docs/superpowers/specs/2026-04-09-reorg-handling-design.md
+  s_fd0911acc376b8::t_c16850851fedba 1-344
+core/tests/e2e_reorg.rs
+  s_fd0911acc376b8::t_c75e252b027e8b 2175-2177,2182
+  s_fd0911acc376b8::t_c35a67a25c4f65 2260
+  s_fd0911acc376b8::t_a1d8587b8f5409 2239
+  s_fd0911acc376b8::t_116122f3b5e86d 2208,2210
+test/rindexer.yaml
+  s_fd0911acc376b8::t_c16850851fedba 1-25
+docs/superpowers/plans/2026-04-14-reorg-review-fixes.md
+  s_fd0911acc376b8::t_c16850851fedba 1-508
+docs/superpowers/plans/2026-04-14-reorg-e2e-expansion.md
+  s_fd0911acc376b8::t_c16850851fedba 1-1107
+docs/superpowers/specs/2026-04-13-aggregate-table-reorg-reversal-design.md
+  s_fd0911acc376b8::t_c16850851fedba 1-182
+core/src/indexer/reorg/task.rs
+  s_fd0911acc376b8::t_7a28a3c9f234a1 455-462,466
+  s_fd0911acc376b8::t_a75733f88c346d 281
+  s_fd0911acc376b8::t_f8a8ee0d4c6d3a 305-310,313
+  s_fd0911acc376b8::t_83661c4e625912 422
+  s_fd0911acc376b8::t_9c54b9f9622ad2 389
+  s_fd0911acc376b8::t_471de784aa2b34 233
+  s_fd0911acc376b8::t_983134cc5a090b 226-232,234-237
+  s_fd0911acc376b8::t_8a49ff0a5dc1f6 498-500,502,504-509
+docs/superpowers/plans/2026-04-17-stream-finalized-delivery.md
+  s_fd0911acc376b8::t_c16850851fedba 1-539
+test/.gitignore
+  s_fd0911acc376b8::t_c16850851fedba 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "fe41ac231402de9d1e4f48f00e62c1506d600df9",
+  "prompts": {},
+  "sessions": {
+    "s_fd0911acc376b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4d23458-536b-4970-bcef-0d5ea174fb36",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}
