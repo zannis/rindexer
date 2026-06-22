@@ -1,0 +1,20 @@
+core/src/indexer/reorg/task.rs
+  s_fd0911acc376b8::t_9f4543b6045ab7 277-280,283,303-312,316
+  s_fd0911acc376b8::t_9f92eeabde007f 353,355,357
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "45b1547aeb3b9180e34a62b002267017088c41ea",
+  "prompts": {},
+  "sessions": {
+    "s_fd0911acc376b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4d23458-536b-4970-bcef-0d5ea174fb36",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}
