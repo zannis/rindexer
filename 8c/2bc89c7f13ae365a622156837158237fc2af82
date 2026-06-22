@@ -1,0 +1,19 @@
+core/tests/e2e_reorg.rs
+  s_fd0911acc376b8::t_21ccf0e8cbcd1e 3362-3497
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "8c2bc89c7f13ae365a622156837158237fc2af82",
+  "prompts": {},
+  "sessions": {
+    "s_fd0911acc376b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4d23458-536b-4970-bcef-0d5ea174fb36",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}
