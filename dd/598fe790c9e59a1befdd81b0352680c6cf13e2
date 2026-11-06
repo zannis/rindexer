@@ -1,0 +1,20 @@
+core/src/indexer/tip_logs.rs
+  s_127a16d3bc3963::t_680f4a57f022dc 260-263,265,267
+  s_127a16d3bc3963::t_2b468829afd643 277-279
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dd598fe790c9e59a1befdd81b0352680c6cf13e2",
+  "prompts": {},
+  "sessions": {
+    "s_127a16d3bc3963": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cd2d7f42-6697-439b-b6a1-0d001ae8cc99",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}
