@@ -1,0 +1,19 @@
+e2e-tests/src/anvil_setup.rs
+  s_127a16d3bc3963::t_cd9307f0261863 270-274,277-282
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6d7041677cbbcb963c04cab55fef2d7d0b1f5221",
+  "prompts": {},
+  "sessions": {
+    "s_127a16d3bc3963": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cd2d7f42-6697-439b-b6a1-0d001ae8cc99",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}
