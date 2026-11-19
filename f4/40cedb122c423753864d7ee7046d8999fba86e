@@ -1,0 +1,21 @@
+documentation/docs/pages/docs/changelog.mdx
+  s_8fef95c2bc55ec::t_6fb852462b5168 10
+core/Cargo.toml
+  s_8fef95c2bc55ec::t_d13ba388b4c95d 74-75,133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f440cedb122c423753864d7ee7046d8999fba86e",
+  "prompts": {},
+  "sessions": {
+    "s_8fef95c2bc55ec": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4596c5b5-e115-4828-9a29-80a41c5f87c6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}
