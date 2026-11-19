@@ -1,0 +1,22 @@
+documentation/docs/pages/docs/changelog.mdx
+  s_8fef95c2bc55ec::t_fadce3073f0fe1 10
+core/src/indexer/process.rs
+  s_8fef95c2bc55ec::t_fc0d73d541d536 1148-1302
+  s_8fef95c2bc55ec::t_b22e87f961ad3c 1303-1304
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a4e576a31f836c69b98e797eaa9827f50a5c3846",
+  "prompts": {},
+  "sessions": {
+    "s_8fef95c2bc55ec": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4596c5b5-e115-4828-9a29-80a41c5f87c6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "zannis <zkalampoukis@gmail.com>"
+    }
+  }
+}
